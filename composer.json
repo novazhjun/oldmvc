@@ -1,12 +1,6 @@
 {
-    "name": "acme/blog",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/username/hello-world"
-        }
-    ],
+    "name": "acme/hello-world",
     "require": {
-        "acme/hello-world": "dev-master"
+        "monolog/monolog": "1.0.*"
     }
 }
